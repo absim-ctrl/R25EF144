@@ -1,1 +1,1 @@
-# R25EF144
+Hi, I’m a Computer Science Engineering student interested in learning programming and exploring different areas of technology. I am currently building my skills in programming, web development, databases, and problem solving. I enjoy working on small projects and learning new technologies through practice. This repository is a part of my learning journey, where I will keep track of my progress and projects. 
