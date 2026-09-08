@@ -3,3 +3,5 @@ Hi, I’m a Computer Science Engineering student interested in learning programm
 I am currently learning C, Java, Python, and basic web development. I have also started learning Git and GitHub to understand version control and collaborative development. Apart from programming, I am improving my problem-solving and database skills and trying to become more comfortable with writing and debugging code.
 
 I am interested in web development, software development, databases, and new technologies. I also enjoy exploring how applications are built and trying out different project ideas. I am particularly interested in learning more about artificial intelligence and improving my technical skills through hands-on projects.
+
+My main goal is to become a better programmer and build a strong foundation in computer science. I want to improve my problem-solving skills, learn more about software development, and work on useful real-world projects. In the future, I hope to gain enough experience to contribute to open-source projects and prepare myself for a career in the technology field.
